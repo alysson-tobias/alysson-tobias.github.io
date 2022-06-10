@@ -1,12 +1,43 @@
 h1 {
   font-family: "Open Sans", sans-serif;
   font-family: "Roboto", sans-serif;
+  color: #0d7377;
 }
 
 img {
-    border-radius: 50%;
+  border-radius: 50%;
+  
 }
 
-p.soft-e-hard-skills{
-    font-weight: bold;
+p.soft-e-hard-skills {
+  font-weight: bold;
+  color: #0d7377;
 }
+
+p.minhaDescricao {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: #0d7377;
+
+}
+
+
+body {
+  background-color: #212121;
+}
+
+ul {
+  color: #0d7377;
+  list-style-type: square;
+}
+
+li {
+  color: #0d7377;
+  list-style-type: square;
+}
+
+img {
+  width: 20%;
+  height: auto;
+}
+
