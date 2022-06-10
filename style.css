@@ -1,0 +1,12 @@
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+img {
+    border-radius: 50%;
+}
+
+p.soft-e-hard-skills{
+    font-weight: bold;
+}
