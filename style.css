@@ -1,38 +1,55 @@
-h1 {
+header {
   font-family: "Open Sans", sans-serif;
-  font-family: "Roboto", sans-serif;
-  color: #0d7377;
+  color: #616161;
+  text-align: center;
+  font-size: 25px;
+}
+
+.cabecalho {
+  background-color: #f2f2f2;
+  border-style: none;
 }
 
 img {
   border-radius: 50%;
-  
+  max-width: 14%;
+  height: 30px;
 }
 
 p.soft-e-hard-skills {
   font-weight: bold;
-  color: #0d7377;
+  color: #616161;
+  margin-left: 32px;
+}
+
+.foto-perfil {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p.minhaDescricao {
   font-family: "Open Sans", sans-serif;
-  font-family: "Roboto", sans-serif;
-  color: #0d7377;
-
+  color: #616161;
+  background-color: #f2f2f2;
+  border: 1px solid #C2C2C2;
+  text-align: center;
 }
 
-
-body {
-  background-color: #212121;
+.redes-sociais{
+  color: #313131;
+  list-style-type: square;
+  margin-left: 33px;
 }
 
 ul {
-  color: #0d7377;
+  color: #616161;
   list-style-type: square;
+  margin-left: 50px;
 }
 
 li {
-  color: #0d7377;
+  color: #616161;
   list-style-type: square;
 }
 
@@ -41,3 +58,7 @@ img {
   height: auto;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  }
