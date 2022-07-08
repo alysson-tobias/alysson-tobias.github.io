@@ -1,6 +1,6 @@
 Portfólio Alysson Tobias
 
-Este repositório contém todas as habilidades de aprendizagem desenvolvidas por [Alysson Tobias] (https://www.linkedin.com/in/alyssontobias/) rocket
+Este repositório contém todas as habilidades de aprendizagem desenvolvidas por [Alysson Tobias] (https://www.linkedin.com/in/alyssontobias/)
 
 "Pessoa desenvolvedora em formação na Trybe, que é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
 
